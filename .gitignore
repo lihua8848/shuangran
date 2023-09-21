@@ -1,0 +1,11 @@
+colorfy_data/
+colorfy_data_vit/
+colorfy_slide/
+colorfy_vit_slide/
+data/
+colorfy_data.zip
+colorfy_slide.zip
+colorfy_vit_slide.zip
+data.zip
+features.pth
+features_vitb.pth
